@@ -1,0 +1,16 @@
+shanghai:
+  name: "Shanghai"
+  description: "Bustling madness!"
+  category: "Large format"
+berlin:
+  name: "Berlin"
+  description: "24hr coding sprees"
+  category: "Small format"
+rio:
+  name: "Rio de Janeiro"
+  description: "Code+dance"
+  category: "Large format"
+copenhagen:
+  name: "Copenhagen"
+  description: "Quaint CSS"
+  category: "Small format"
